@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library Management App</string>
+
+    <string-array name="category">
+        <item>Fiksi</item>
+        <item>Non Fiksi</item>
+        <item>Pendidikan</item>
+        <item>Anak-Anak</item>
+    </string-array>
+</resources>
